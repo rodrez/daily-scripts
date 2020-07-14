@@ -8,7 +8,7 @@ import os
 def load_animation(): 
   
     # String to be displayed when the application is loading 
-    load_str = f'abussing hamnster on the hamster wheel to gather {epic_id} stats.'
+    load_str = f'abussing hamster on the hamster wheel to gather {epic_id} stats.'
     ls_len = len(load_str) 
   
   
@@ -76,7 +76,7 @@ def load_animation():
 
 
 authorization_key = '7c88c917-e4a04331-8de5dec0-40ddb434'
-epic_id = "willygatillo fb"
+epic_id = "Ninja"
 
 
 print(f'Getting data for {epic_id}')
